@@ -1,0 +1,9 @@
+.cache/
+.vscode/
+
+__pycache__/
+
+build/
+cmake-build-*
+
+compile_commands.json
