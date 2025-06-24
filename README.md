@@ -37,9 +37,14 @@ Execute the Jupyter notebook `analysis.ipynb` to generate the plots from the pap
 
 # Citation
 
-Our paper is available [here](https://www.amazon.science/) (TODO).
+Our paper is available [here](https://www.amazon.science/publications/insert-optimized-implementation-of-streaming-data-sketches).
 ```
-TODO
+@Article{Pfeil2025,
+ author = {Pascal Pfeil and Dominik Horn and Orestis Polychroniou and George Erickson and Zhe Heng Eng and Mengchu Cai and Tim Kraska},
+ title = {Insert-Optimized Implementation of Streaming Data Sketches},
+ year = {2025},
+ url = {https://www.amazon.science/publications/insert-optimized-implementation-of-streaming-data-sketches},
+}
 ```
 
 ## Security
